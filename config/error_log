@@ -1,0 +1,5 @@
+[12-Dec-2019 19:58:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'senr3879_simdesapp'@'localhost' (using password: YES) in /home/senr3879/public_html/simdesapp/config/koneksi.php on line 8
+[12-Dec-2019 19:59:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'senr3879_simdesapp'@'localhost' (using password: YES) in /home/senr3879/public_html/simdesapp/config/koneksi.php on line 8
+[12-Dec-2019 19:59:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'senr3879_simdesapp'@'localhost' (using password: YES) in /home/senr3879/public_html/simdesapp/config/koneksi.php on line 8
+[12-Dec-2019 19:59:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'senr3879_simdesapp'@'localhost' (using password: YES) in /home/senr3879/public_html/simdesapp/config/koneksi.php on line 8
+[12-Dec-2019 20:00:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'senr3879_simdesapp'@'localhost' (using password: YES) in /home/senr3879/public_html/simdesapp/config/koneksi.php on line 8

@@ -1,0 +1,393 @@
+[09-Jan-2020 16:21:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php on line 51
+[09-Jan-2020 16:21:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php on line 51
+[09-Feb-2020 06:29:50 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:29:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:29:50 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:29:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:29:50 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:29:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:30:08 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:30:08 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:30:08 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:30:08 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:30:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:30:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:31:56 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:31:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:31:56 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:31:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:31:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:31:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:34:47 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:34:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:34:47 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:34:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:34:47 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:34:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:36:00 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 4
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 8
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 9
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 10
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 14
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 15
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 16
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:36:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 8
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 9
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 10
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 14
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 15
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 16
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:36:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 8
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 9
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 10
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 11
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 11
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 12
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 14
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 15
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 16
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:37:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 32
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 33
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 34
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 35
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 35
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 36
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 38
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 39
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 40
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 41
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 41
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 42
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 42
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 43
+[09-Feb-2020 06:37:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 44
+[09-Feb-2020 06:37:51 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:37:51 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:37:51 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 4
+[09-Feb-2020 06:38:10 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:38:10 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:38:10 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 4
+[09-Feb-2020 06:38:22 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:38:22 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:38:41 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:38:41 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 8
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 9
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 10
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 11
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 11
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 12
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 14
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 15
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 16
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:38:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 128
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 129
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 130
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 131
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 131
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 132
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 134
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 135
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 136
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 137
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 137
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 138
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 138
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 139
+[09-Feb-2020 06:39:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 140
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 128
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 129
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 130
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 131
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 131
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 132
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 134
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 135
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 136
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 137
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 137
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 138
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 138
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 139
+[09-Feb-2020 06:40:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 140
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 128
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 129
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 130
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 131
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 131
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 132
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 134
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 135
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 136
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 137
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 137
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 138
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 138
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 139
+[09-Feb-2020 06:40:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 140
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 131
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 132
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 133
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 134
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 134
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 135
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 137
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 138
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 139
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 140
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 140
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 141
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 141
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 142
+[09-Feb-2020 06:40:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 143
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 13
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 14
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 15
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 22
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 22
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 23
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 23
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 24
+[09-Feb-2020 06:41:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 25
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 9
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 10
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 11
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 15
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 16
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:43:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 9
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 10
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 11
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 15
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 16
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:43:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 9
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 10
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 11
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 15
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 16
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 17
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 06:43:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 06:43:41 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 4
+[09-Feb-2020 06:47:25 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 4
+[09-Feb-2020 06:47:50 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php on line 59
+[09-Feb-2020 06:47:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php on line 59
+[09-Feb-2020 06:47:50 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php on line 60
+[09-Feb-2020 06:47:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php on line 60
+[09-Feb-2020 06:47:50 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php on line 61
+[09-Feb-2020 06:47:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/aksi_smartvillage.php on line 62
+[09-Feb-2020 07:16:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 07:17:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 22
+[09-Feb-2020 07:18:47 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 4
+[09-Feb-2020 07:19:16 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 4
+[09-Feb-2020 07:19:22 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 4
+[09-Feb-2020 07:19:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 22
+[09-Feb-2020 07:21:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 22
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 13
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 13
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 14
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 07:22:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 22
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Warning:  include(./config/koneksi.php): failed to open stream: No such file or directory in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Warning:  include(): Failed opening './config/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 3
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 13
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 13
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 14
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Notice:  Undefined variable: konek in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 07:22:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 22
+[09-Feb-2020 07:25:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 07:26:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 07:27:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 33
+[09-Feb-2020 07:27:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 33
+[09-Feb-2020 07:28:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 34
+[09-Feb-2020 07:29:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 34
+[09-Feb-2020 07:31:14 Asia/Jakarta] PHP Notice:  Undefined variable: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 27
+[09-Feb-2020 07:31:14 Asia/Jakarta] PHP Notice:  Undefined variable: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 27
+[09-Feb-2020 07:31:14 Asia/Jakarta] PHP Notice:  Undefined variable: search in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 27
+[09-Feb-2020 07:31:14 Asia/Jakarta] PHP Notice:  Undefined variable: order_field in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 30
+[09-Feb-2020 07:31:14 Asia/Jakarta] PHP Notice:  Undefined index:  in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 30
+[09-Feb-2020 07:31:14 Asia/Jakarta] PHP Notice:  Undefined variable: order_ascdesc in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 30
+[09-Feb-2020 07:31:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 34
+[09-Feb-2020 07:32:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 34
+[09-Feb-2020 07:32:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 34
+[09-Feb-2020 07:33:47 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 07:33:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 18
+[09-Feb-2020 07:33:47 Asia/Jakarta] PHP Notice:  Undefined variable: connect in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 07:33:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 19
+[09-Feb-2020 07:33:47 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 20
+[09-Feb-2020 07:33:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 07:34:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 07:39:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
+[09-Feb-2020 07:40:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/senr3879/public_html/simdesapp/modul/mod_smartvillage/query_builder.php on line 21
